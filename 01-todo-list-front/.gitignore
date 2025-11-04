@@ -1,11 +1,14 @@
+# dependências e builds
 node_modules/
 dist/
 build/
-.cache/
-*.log
+
+# envs
 .env
 .env.*
 !.env.example
+
+# editor/OS
 .vscode/
 .DS_Store
-Thumbs.db
+*.log
