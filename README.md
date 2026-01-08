@@ -26,6 +26,7 @@ Cada projeto é independente e possui sua própria demonstração online.
 | 002 | Password Generator    | Gerador de senhas com opções de tamanho e caracteres                        | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/002-password-generator/)
 | 003 | Rotating Navigation | Navegação animada com rotação usando HTML, CSS e JavaScript | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/003-rotating-navigation/) |
 
+
  |
  
 ---
