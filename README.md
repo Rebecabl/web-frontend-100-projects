@@ -27,7 +27,7 @@ Cada projeto é independente e possui sua própria demonstração online.
 | 003 | Rotating Navigation | Navegação animada com rotação usando HTML, CSS e JavaScript | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/003-rotating-navigation/) |
 
 
- |
+ 
  
 ---
 
