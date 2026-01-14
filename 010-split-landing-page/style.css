@@ -1,0 +1,99 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  font-family: "Segoe UI", Arial, sans-serif;
+  height: 100vh;
+  overflow: hidden;
+  background: #0b0b0b;
+}
+
+.container {
+  display: flex;
+  height: 100%;
+}
+
+
+.split {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  transition: flex 0.6s ease;
+  position: relative;
+  color: #fff;
+}
+
+.split::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: rgba(0, 0, 0, 0.55);
+  z-index: 1;
+}
+
+.split * {
+  position: relative;
+  z-index: 2;
+  text-align: center;
+}
+
+
+.left {
+  background: linear-gradient(135deg, #5f2c82, #49a09d);
+}
+
+
+.right {
+  background: linear-gradient(135deg, #141e30, #243b55);
+}
+
+
+h1 {
+  font-size: 3rem;
+  margin-bottom: 10px;
+}
+
+p {
+  font-size: 1.1rem;
+  opacity: 0.85;
+  margin-bottom: 25px;
+}
+
+
+button {
+  padding: 12px 30px;
+  border: none;
+  border-radius: 30px;
+  font-size: 1rem;
+  cursor: pointer;
+  background: #fff;
+  color: #111;
+  transition: all 0.3s ease;
+}
+
+button:hover {
+  transform: scale(1.08);
+  background: #e5e5e5;
+}
+
+
+.container.hover-left .left {
+  flex: 3;
+}
+
+.container.hover-left .right {
+  flex: 1;
+}
+
+.container.hover-right .right {
+  flex: 3;
+}
+
+.container.hover-right .left {
+  flex: 1;
+}
