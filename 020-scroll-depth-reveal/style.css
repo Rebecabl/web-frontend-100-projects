@@ -1,0 +1,90 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: Arial, Helvetica, sans-serif;
+}
+
+body {
+  background: #0c0c0c;
+  color: #eaeaea;
+  line-height: 1.6;
+}
+
+
+
+.hero {
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  padding: 0 20px;
+  text-align: center;
+  background: radial-gradient(circle at top, #1a1a1a, #000);
+}
+
+.hero h1 {
+  font-size: 3.2rem;
+  margin-bottom: 12px;
+}
+
+.hero p {
+  opacity: 0.7;
+  font-size: 1.1rem;
+}
+
+
+
+.sections {
+  padding: 100px 20px;
+  display: flex;
+  flex-direction: column;
+  gap: 120px;
+}
+
+.block {
+  max-width: 760px;
+  margin: 0 auto;
+  padding: 50px 60px;
+  background: linear-gradient(145deg, #161616, #0f0f0f);
+  border-radius: 28px;
+  box-shadow: 0 30px 60px rgba(0,0,0,0.6);
+
+  opacity: 0;
+  transform: translateY(80px) scale(0.95);
+  filter: blur(8px);
+
+  transition:
+    opacity 0.9s ease,
+    transform 0.9s ease,
+    filter 0.9s ease;
+}
+
+.block h2 {
+  font-size: 1.8rem;
+  margin-bottom: 14px;
+}
+
+.block p {
+  font-size: 1rem;
+  opacity: 0.85;
+}
+
+
+.block.show {
+  opacity: 1;
+  transform: translateY(0) scale(1);
+  filter: blur(0);
+}
+
+
+
+@media (max-width: 600px) {
+  .block {
+    padding: 40px 28px;
+  }
+
+  .hero h1 {
+    font-size: 2.4rem;
+  }
+}

@@ -1,0 +1,49 @@
+* {
+  box-sizing: border-box;
+  margin: 0;
+  padding: 0;
+}
+
+body {
+  height: 100vh;
+  background: radial-gradient(circle at top, #1a1a1a, #0b0b0b);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-family: Arial, sans-serif;
+  color: #fff;
+}
+
+.container {
+  display: flex;
+  gap: 60px;
+}
+
+.counter-box {
+  text-align: center;
+}
+
+.counter {
+  font-size: 56px;
+  font-weight: 700;
+  display: block;
+  color: #ffffff;
+  transition: text-shadow 0.3s ease, transform 0.3s ease;
+}
+
+.counter.active {
+  text-shadow: 0 0 12px rgba(76, 175, 80, 0.6);
+  transform: scale(1.02);
+}
+
+.counter.done {
+  text-shadow: 0 0 18px rgba(76, 175, 80, 0.9);
+  transform: scale(1.06);
+}
+
+.counter-box p {
+  margin-top: 8px;
+  font-size: 14px;
+  letter-spacing: 1px;
+  opacity: 0.75;
+}
