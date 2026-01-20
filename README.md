@@ -5,7 +5,7 @@
 
 ---
 
-##  Objetivo
+## Objetivo
 
 Este repositório foi criado para:
 
@@ -18,7 +18,7 @@ Cada projeto é independente e possui sua própria demonstração online.
 
 ---
 
-##  Projetos
+## Projetos
 
 | #   | Projeto                          | Descrição                                                                 | Live Demo |
 |-----|----------------------------------|---------------------------------------------------------------------------|-----------|
@@ -35,10 +35,17 @@ Cada projeto é independente e possui sua própria demonstração online.
 | 011 | Event KeyCodes                   | Exibição de informações ao pressionar teclas                               | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/011-event-keycodes/) |
 | 012 | FAQ Collapse                     | Lista de perguntas frequentes com efeito de expansão                       | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/012-faq-collapse/) |
 | 013 | Random Choice Picker             | Seleção aleatória animada a partir de entradas do usuário                  | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/013-random-choice-picker/) |
+| 014 | Animated Navigation              | Navegação animada com transições suaves                                    | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/014-animated-navigation/) |
+| 015 | Incrementing Counter             | Contadores animados que incrementam valores dinamicamente                 | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/015-incrementing-counter/) |
+| 016 | Drink Water                      | Controle visual de ingestão diária de água                                 | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/016-drink-water/) |
+| 017 | Dynamic Color Palette            | Geração dinâmica de paletas de cores                                       | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/017-dynamic-color-palette/) |
+| 018 | Custom Range Slider              | Slider personalizado com feedback visual                                   | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/018-custom-range-slider/) |
+| 019 | Image Comparison Slider          | Comparação interativa de imagens antes e depois                            | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/019-image-comparison-slider/) |
+| 020 | Scroll Depth Reveal              | Animações de entrada com profundidade e foco no conteúdo                  | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/020-scroll-depth-reveal/) |
 
 ---
 
-##  Tecnologias
+## Tecnologias
 
 - HTML5  
 - CSS3  
@@ -46,7 +53,7 @@ Cada projeto é independente e possui sua própria demonstração online.
 
 ---
 
-##  Observações
+## Observações
 
 - Projetos desenvolvidos **sem frameworks**
 - Código simples, organizado e didático
