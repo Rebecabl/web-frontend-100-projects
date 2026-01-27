@@ -1,0 +1,34 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8">
+  <title>Drag and Drop Board</title>
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+
+  <h1>Quadro Drag & Drop</h1>
+  <p class="subtitle">Arraste os cartões entre as colunas</p>
+
+  <div class="board">
+    <div class="column">
+      <h2>Ideias</h2>
+      <div class="card" draggable="true">Criar landing page</div>
+      <div class="card" draggable="true">Novo layout mobile</div>
+    </div>
+
+    <div class="column">
+      <h2>Em Progresso</h2>
+      <div class="card" draggable="true">Refatorar CSS</div>
+    </div>
+
+    <div class="column">
+      <h2>Concluído</h2>
+      <div class="card" draggable="true">Configurar GitHub Pages</div>
+    </div>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>

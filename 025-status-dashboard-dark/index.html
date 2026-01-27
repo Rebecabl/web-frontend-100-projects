@@ -1,0 +1,33 @@
+<!DOCTYPE html>
+<html lang="pt-BR">
+<head>
+  <meta charset="UTF-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+  <title>Status Dashboard Dark</title>
+  <link rel="stylesheet" href="style.css" />
+</head>
+<body>
+
+  <div class="dashboard">
+    <h1>Status do Sistema</h1>
+    <p class="subtitle">Monitoramento em tempo real</p>
+
+    <div class="status-panel" id="statusPanel">
+      <span class="status-label">Em espera</span>
+    </div>
+
+    <div class="controls">
+      <button data-status="idle">Em espera</button>
+      <button data-status="processing">Processando</button>
+      <button data-status="success">Concluído</button>
+      <button data-status="error">Erro</button>
+    </div>
+
+    <p class="description" id="description">
+      O sistema está aguardando uma ação para iniciar.
+    </p>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
