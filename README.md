@@ -36,12 +36,17 @@ Cada projeto é independente e possui sua própria demonstração online.
 | 012 | FAQ Collapse                     | Lista de perguntas frequentes com efeito de expansão                       | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/012-faq-collapse/) |
 | 013 | Random Choice Picker             | Seleção aleatória animada a partir de entradas do usuário                  | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/013-random-choice-picker/) |
 | 014 | Animated Navigation              | Navegação animada com transições suaves                                    | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/014-animated-navigation/) |
-| 015 | Incrementing Counter             | Contadores animados que incrementam valores dinamicamente                 | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/015-incrementing-counter/) |
+| 015 | Incrementing Counter             | Contadores animados que incrementam valores dinamicamente                  | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/015-incrementing-counter/) |
 | 016 | Drink Water                      | Controle visual de ingestão diária de água                                 | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/016-drink-water/) |
 | 017 | Dynamic Color Palette            | Geração dinâmica de paletas de cores                                       | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/017-dynamic-color-palette/) |
 | 018 | Custom Range Slider              | Slider personalizado com feedback visual                                   | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/018-custom-range-slider/) |
 | 019 | Image Comparison Slider          | Comparação interativa de imagens antes e depois                            | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/019-image-comparison-slider/) |
 | 020 | Scroll Depth Reveal              | Animações de entrada com profundidade e foco no conteúdo                  | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/020-scroll-depth-reveal/) |
+| 021 | Drag and Drop                    | Interface interativa de arrastar e soltar elementos                        | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/021-drag-and-drop/) |
+| 022 | Drawing App                      | Aplicação de desenho livre utilizando canvas                               | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/022-drawing-app/) |
+| 023 | Kinetic Loader                   | Loader animado com efeito cinético                                         | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/023-kinetic-loade/) |
+| 024 | Sticky Navigation                | Navegação fixa que reage ao scroll da página                               | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/024-sticky-navigation/) |
+| 025 | Status Dashboard (Dark)          | Painel de estados e métricas com visual escuro                             | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/025-status-dashboard-dark/) |
 
 ---
 
