@@ -9,10 +9,10 @@
 
 Este repositório foi criado para:
 
-- Praticar fundamentos de Frontend
-- Evoluir em JavaScript puro
-- Criar projetos pequenos e funcionais
-- Construir um portfólio real, com **Live Demos**
+- Praticar fundamentos de Frontend  
+- Evoluir em JavaScript puro  
+- Criar projetos pequenos e funcionais  
+- Construir um portfólio real, com **Live Demos**  
 
 Cada projeto é independente e possui sua própria demonstração online.
 
@@ -24,8 +24,8 @@ Cada projeto é independente e possui sua própria demonstração online.
 |-----|----------------------------------|---------------------------------------------------------------------------|-----------|
 | 001 | Progress Tracker UI              | Interface de etapas com barra de progresso interativa                      | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/001-progress-tracker-ui/) |
 | 002 | Password Generator               | Gerador de senhas com opções de tamanho e caracteres                       | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/002-password-generator/) |
-| 003 | Rotating Navigation              | Navegação animada com efeito de rotação                                   | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/003-rotating-navigation/) |
-| 004 | Interactive Liquid Gradient      | Estudo de gradiente animado interativo utilizando Canvas                  | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/004-interactive-liquid-gradient-study/) |
+| 003 | Rotating Navigation              | Navegação animada com efeito de rotação                                    | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/003-rotating-navigation/) |
+| 004 | Interactive Liquid Gradient      | Estudo de gradiente animado interativo utilizando Canvas                   | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/004-interactive-liquid-gradient-study/) |
 | 005 | Expanding Cards                  | Cards expansíveis com transição suave ao clique                            | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/005-expanding-cards/) |
 | 006 | Progress Steps                   | Barra de progresso em etapas com navegação                                 | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/006-progress-steps/) |
 | 007 | Hidden Search Widget             | Campo de busca animado com expansão                                        | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/007-hidden-search-widget/) |
@@ -41,12 +41,17 @@ Cada projeto é independente e possui sua própria demonstração online.
 | 017 | Dynamic Color Palette            | Geração dinâmica de paletas de cores                                       | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/017-dynamic-color-palette/) |
 | 018 | Custom Range Slider              | Slider personalizado com feedback visual                                   | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/018-custom-range-slider/) |
 | 019 | Image Comparison Slider          | Comparação interativa de imagens antes e depois                            | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/019-image-comparison-slider/) |
-| 020 | Scroll Depth Reveal              | Animações de entrada com profundidade e foco no conteúdo                  | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/020-scroll-depth-reveal/) |
+| 020 | Scroll Depth Reveal              | Animações de entrada com profundidade e foco no conteúdo                   | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/020-scroll-depth-reveal/) |
 | 021 | Drag and Drop                    | Interface interativa de arrastar e soltar elementos                        | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/021-drag-and-drop/) |
 | 022 | Drawing App                      | Aplicação de desenho livre utilizando canvas                               | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/022-drawing-app/) |
 | 023 | Kinetic Loader                   | Loader animado com efeito cinético                                         | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/023-kinetic-loade/) |
 | 024 | Sticky Navigation                | Navegação fixa que reage ao scroll da página                               | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/024-sticky-navigation/) |
 | 025 | Status Dashboard (Dark)          | Painel de estados e métricas com visual escuro                             | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/025-status-dashboard-dark/) |
+| 026 | Toast Notification               | Sistema de notificações visuais temporárias                                | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/026-toast-notification/) |
+| 027 | GitHub Profiles                  | Busca e exibição de perfis do GitHub                                       | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/027-github-profiles/) |
+| 028 | Double Click Like                | Curtida com duplo clique em imagem                                         | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/028-double-click-like/) |
+| 029 | Spotlight Cursor                 | Efeito de luz seguindo o cursor                                            | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/029-spotlight-cursor/) |
+| 030 | Auto Text Effect                 | Texto animado digitando automaticamente                                    | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/030-auto-text-effect/) |
 
 ---
 
@@ -60,6 +65,6 @@ Cada projeto é independente e possui sua própria demonstração online.
 
 ## Observações
 
-- Projetos desenvolvidos **sem frameworks**
-- Código simples, organizado e didático
-- Foco em prática, consistência e aprendizado contínuo
+- Projetos desenvolvidos **sem frameworks**  
+- Código simples, organizado e didático  
+- Foco em prática, consistência e aprendizado contínuo  
