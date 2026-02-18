@@ -1,0 +1,40 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  margin: 0;
+  background: #020617;
+  color: white;
+  font-family: Arial, sans-serif;
+}
+
+.content {
+  text-align: center;
+  padding-top: 80px;
+}
+
+.grid {
+  display: grid;
+  grid-template-columns: repeat(3, 200px);
+  gap: 20px;
+  justify-content: center;
+  margin-top: 40px;
+}
+
+.card {
+  height: 120px;
+  background: #111827;
+  border-radius: 12px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#spotlight {
+  position: fixed;
+  inset: 0;
+  pointer-events: none;
+  background: radial-gradient(circle 0px at 50% 50%, transparent, rgba(0,0,0,0.95));
+  z-index: 999;
+}
