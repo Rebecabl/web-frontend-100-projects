@@ -1,0 +1,11 @@
+body{
+height:100vh;
+margin:0;
+display:flex;
+justify-content:center;
+align-items:center;
+font-family:Arial;
+color:white;
+background:radial-gradient(circle at center,#3498db,#111);
+transition:background 0.1s;
+}
