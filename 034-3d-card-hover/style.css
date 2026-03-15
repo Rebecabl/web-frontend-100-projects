@@ -1,0 +1,27 @@
+body{
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+background:#111;
+font-family:Arial;
+margin:0;
+}
+
+.container{
+perspective:1000px;
+}
+
+.card{
+width:300px;
+height:200px;
+background:white;
+border-radius:10px;
+display:flex;
+flex-direction:column;
+justify-content:center;
+align-items:center;
+transition:0.2s;
+transform-style:preserve-3d;
+box-shadow:0 20px 40px rgba(0,0,0,0.3);
+}

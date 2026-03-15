@@ -1,0 +1,32 @@
+body{
+height:100vh;
+display:flex;
+justify-content:center;
+align-items:center;
+font-family:Arial;
+transition:0.5s;
+margin:0;
+}
+
+.container{
+background:white;
+padding:40px;
+border-radius:10px;
+text-align:center;
+box-shadow:0 10px 20px rgba(0,0,0,0.2);
+}
+
+button{
+padding:10px 20px;
+font-size:16px;
+cursor:pointer;
+border:none;
+background:#333;
+color:white;
+border-radius:5px;
+}
+
+p{
+margin-top:20px;
+font-weight:bold;
+}
