@@ -57,6 +57,11 @@ Cada projeto é independente e possui sua própria demonstração online.
 | 033 | Theme Clock                      | Relógio analógico com alternância entre tema claro e escuro                 | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/033-theme-clock/) |
 | 034 | 3D Card Hover                    | Card interativo com efeito de inclinação 3D seguindo o cursor               | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/034-3d-card-hover/) |
 | 035 | Button Ripple Effect             | Botão com efeito ripple animado ao clicar                                   | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/035-button-ripple/) |
+| 036 | Tooltip | Tooltip exibido ao passar o mouse | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/036-tooltip/) |
+| 037 | Color Flipper | Geração de cores aleatórias para o fundo | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/037-color-flipper/) |
+| 038 | Modal Popup | Popup modal controlado por JavaScript | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/038-modal-popup/) |
+| 039 | Mouse Glow Gradient | Efeito de luz que segue o cursor | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/039-mouse-glow-gradient/) |
+| 040 | Animated FAQ Accordion | FAQ com animação de expansão | [DEMO](https://rebecabl.github.io/web-frontend-100-projects/040-animated-faq-accordion/) |
 
 ---
 
